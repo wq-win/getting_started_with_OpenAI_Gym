@@ -1,1 +1,3 @@
 # getting_started_with_OpenAI_Gym
+The original links for 01_Env_Spaces_Wrappers.ipynb and Vectorized_Environments are [OpenAI Gym 01](https://mp.weixin.qq.com/s?__biz=Mzk0NjMzNzEwMA==&mid=2247484898&idx=1&sn=39757ecbee65666375077d93d3bcabcc&chksm=c306e1c1f47168d72d211443789ca7c422c4c54d9ff035ab4523e16ab8cc23a4e180e514f4dc&token=2010515180&lang=zh_CN#rd).
+The original links for 02 is [OpenAI Gym 02](https://mp.weixin.qq.com/s?__biz=Mzk0NjMzNzEwMA==&mid=2247484835&idx=1&sn=11ac6598cb35b82a73a8ba9431ab1e41&chksm=c306e180f4716896c5325b9c16ba87d05b1b79bfd31b32045b09610834de6e2d5e3cdaecc467&token=2010515180&lang=zh_CN#rd).
